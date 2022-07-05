@@ -130,3 +130,7 @@ dmypy.json
 *access_keys*
 *credentials*
 *.aws*
+.DS_Store
+.idea
+providers.tf
+*.txt
